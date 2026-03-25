@@ -16,8 +16,14 @@
       <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Exercicio_TodoParte" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Biblioteca" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/ClinicaMedica" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao/Basquete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao/Software" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao_Composicao/Cine-Teatro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao_Composicao/Supermercado" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Associacao/Biblioteca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Associacao/ClinicaMedica" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Composicao/Apartamento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Composicao/Computadores" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
