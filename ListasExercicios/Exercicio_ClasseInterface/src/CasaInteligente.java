@@ -1,0 +1,19 @@
+package src;
+
+public class CasaInteligente {
+    public static void main(String[] args) {
+
+        // Testando Fechadura Eletrônica
+        FechaduraEletronica fechadura = new FechaduraEletronica("1234");
+        fechadura.validarAcesso("1234");
+        fechadura.ligar();
+        fechadura.desligar();
+
+
+        // Testando Termostato Smart
+        TermostatoSmart termostato = new TermostatoSmart();
+        termostato.ligar();
+        termostato.lerTemperatura();
+        termostato.desligar();
+    }
+}
