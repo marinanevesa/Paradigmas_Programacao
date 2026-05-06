@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Lista2/Exe5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/Exe1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/Exe2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/Exe2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/Exe3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/Exe3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Lista1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Exe2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Exe3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Exercicio_TodoParte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao/Basquete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao/Software" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao_Composicao/Cine-Teatro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Agregacao_Composicao/Supermercado" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Associacao/Biblioteca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Associacao/ClinicaMedica" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Composicao/Apartamento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListasExercicios/Lista3/Composicao/Computadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClasseInterface/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/Listas" />
+      </list>
+    </option>
+  </component>
+</module>

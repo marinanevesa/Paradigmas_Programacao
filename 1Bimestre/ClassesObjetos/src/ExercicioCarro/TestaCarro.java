@@ -1,0 +1,26 @@
+package ExercicioCarro;
+public class TestaCarro {
+    public static void main(String args[]){
+        // instância obj1
+        ExercicioCarro.Carro obj1 = new ExercicioCarro.Carro("Fiat", "Palio", 1.6f, 2020, "A", "Azul");
+        System.out.println(obj1.toString());
+        obj1.acelerar(80);
+
+        ExercicioCarro.Carro obj2 = new ExercicioCarro.Carro("GM", "Onix", 1.3f, 2021, "B", "Preto");
+        System.out.println(obj2.toString());
+        obj2.ligar();
+        obj2.acelerar(80);
+        obj2.frear(50);
+        obj2.frear(40);
+        System.out.println(obj2.toString());
+
+        ExercicioCarro.Carro obj3 = new ExercicioCarro.Carro("Volks", "Gol", 1.0f, 2022, "C", "Branco");
+        System.out.println(obj3.toString());
+        obj3.ligar();
+        obj3.acelerar(100);
+        System.out.println(obj3.toString());
+
+        obj2.desligar();
+        obj3.desligar();
+    }
+}
