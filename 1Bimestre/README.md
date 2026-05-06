@@ -1,4 +1,4 @@
-# Paradigmas de Programação: POO com Java
+# Paradigmas de Programação 1 Bimestre: POO com Java
 
 Repositório dedicado ao estudo de **Paradigmas de Programação Orientada a Objetos (POO)**, desenvolvido durante o 3º semestre de Sistemas de Informação na **Uni-FACEF**.
 
